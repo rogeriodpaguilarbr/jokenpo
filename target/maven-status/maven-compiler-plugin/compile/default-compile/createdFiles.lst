@@ -1,0 +1,17 @@
+com/jokenpo/model/TipoDeJogadaTesoura.class
+com/jokenpo/resoure/GerenciadorJogadores.class
+com/jokenpo/resoure/JogadorResource.class
+com/jokenpo/model/excessao/JogadaNaoInformadaExcecao.class
+com/jokenpo/model/TipoDeJogadaLagarto.class
+com/jokenpo/resoure/JogadorResourcceAdvice.class
+com/jokenpo/model/Jogada.class
+com/jokenpo/model/TipoDeJogadaPapel.class
+com/jokenpo/resoure/JogadaResource.class
+com/jokenpo/model/TipoDeJogadaSpock.class
+com/jokenpo/model/TipoDeJogadaPedra.class
+com/jokenpo/model/constantes/TiposDeJogadaEnum.class
+com/jokenpo/resoure/CustomErrorType.class
+com/jokenpo/model/interfaces/GerenciadorJogadoresInterface.class
+com/jokenpo/model/TipoDeJogada.class
+com/jokenpo/model/excessao/JogadorNaoEstaNoJogoExcecao.class
+com/jokenpo/model/Jogador.class
