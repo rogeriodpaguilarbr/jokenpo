@@ -28,8 +28,8 @@ import com.jokenpo.model.interfaces.GerenciadorJogadoresInterface;
 @RequestMapping("/jogada")
 public class JogadaResource {
 
-	//TODO - transformar em singleton
 	private static ControleJogo controleJogo = ControleJogo.newInstance();
+	
 	@Autowired	
 	private GerenciadorJogadoresInterface gerenciadorJogadores;
 
